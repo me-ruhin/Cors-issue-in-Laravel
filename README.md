@@ -4,7 +4,8 @@
 
 > php artisan make:middleware Cors 
 
-# Step:02 Modify the handler method()
+## Step:02 Modify the handle method()
+
 ```
 
 return $next($request)
