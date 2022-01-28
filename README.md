@@ -1,3 +1,3 @@
 # Cors-issue-in-Laravel
 
->>Just create a Middleware 
+>Just create a Middleware 
